@@ -1,3 +1,8 @@
+//John Power
+/*
+just a refresher after the summer hols
+ */
+
 import javax.swing.JOptionPane;
 
 public class lab1ex1 {

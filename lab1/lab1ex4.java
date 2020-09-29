@@ -1,6 +1,7 @@
 //John Power
+
 /*
-       revising slightly more complex problems
+    some basic input output and math program
  */
 
 package lab1;

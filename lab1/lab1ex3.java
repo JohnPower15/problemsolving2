@@ -1,6 +1,8 @@
-//ex3
-/*revision on imputing data and basic calc
-*/
+//John Power
+
+/*
+    still Refreshing after summer hols with some basic input output program
+ */
 
 
 package lab1;
